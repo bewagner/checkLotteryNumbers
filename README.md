@@ -23,23 +23,26 @@ Lets call the file containing the correct numbers 'correctNumbers.csv' from now 
 
 An example of such a file would be:
 
+```
 //Beginning of file//
-- 01099147
-- 55517602
-- 16246076
-- 78369053
-- 06816904
-- 021
-- 398
-- 991
-- 028
+01099147
+55517602
+16246076
+78369053
+06816904
+021
+398
+991
+028
 //End of file//
+```
 
 In a similar fashion you write the numbers from your 7-11/OK-Mart/Hi-Life tickets into a file. We will call this file 'yourNumbers.csv'. The file containing your numbers could look like this	  	 
 
-- 55168
-- 91863
-- ...
+```
+55168
+91863
+```
 			
 No alphabetical characters are allowed in both files. Whitespace and tabs will be ignored.
 
