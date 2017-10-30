@@ -9,7 +9,7 @@ Using your favorite text editor (emacs, vim, Excel, …) you write the correct n
 	  
 http://service.etax.nat.gov.tw/etwmain/front/ETW183W6
 
-Lets call the file containing the correct numbers 'correctNumbers.csv' from now on. Please write the from top to bottom as they appear on the website or else the program won't work. That is, the order should be 
+Lets call the file containing the correct numbers 'correctNumbers.csv' from now on. Please write the numbers from top to bottom as they appear on the website or else the program won't work. That is, the order should be 
 	 	  	  	   			  	  		  
 1. Special prize
 2. Grand prize
