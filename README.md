@@ -40,10 +40,12 @@ An example of such a file would be:
 In a similar fashion you write the numbers from your 7-11/OK-Mart/Hi-Life tickets into a file. We will call this file 'yourNumbers.csv'. The file containing your numbers could look like this	  	 
 
 ```
-55168
-91863
+42155168
+54891863
+...
 ```
-			
+
+
 No alphabetical characters are allowed in both files. Whitespace and tabs will be ignored.
 
 
